@@ -15,7 +15,7 @@ var input : String?
 input = readLine() ?? ""
 prev = Int(input!) ?? 0
 //read second value
-input = readLine() ?? ""
+input = readLine()
 
 while(input != nil) {
     //parse int into next
