@@ -1,6 +1,6 @@
 //
-//  pt2.swift
-//  aoc-2021
+//  Advent of Code 2021
+//  Day 1, Part 2
 //
 //  Created by Claire Violet on 12/2/21.
 //
